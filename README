@@ -1,0 +1,9 @@
+Install Node.js from http://nodejs.org/#download
+
+Run server:
+node app.js
+
+Connect to server
+telnet localhost 1337
+
+The last rows in encryption.coffee has commented benchmark code.
