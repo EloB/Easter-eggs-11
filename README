@@ -2,6 +2,8 @@ Blocket.se - Last easter egg
 
 Install Node.js from http://nodejs.org/#download
 
+The encryptions is highly optimized with pre-defined index. Because of the native function were quite slow.
+
 Run server:
 node app.js
 
